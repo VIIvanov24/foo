@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LAyer 1/LAyer 1.vcxproj" />
+  <Project Path="StaticLIb/StaticLIb.vcxproj" />
+  <Project Path="UnitTest1/UnitTest1.vcxproj" />
+</Solution>

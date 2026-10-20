@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aipetrov24\\source\\repos\\layer 1\\staticlib\\foo.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\aipetrov24\\source\\repos\\layer 1\\staticlib\\foo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
